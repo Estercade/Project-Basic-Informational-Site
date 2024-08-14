@@ -24,7 +24,7 @@ http.createServer(function (req, res) {
             res.end(content);
         })
     } else {
-        fs.readFile(path.join(__dirname, 'public', '404.html'), function(err, content) {
+        fs.readFile(path.join(__dirname, 'public', 'contact-me.html'), function(err, content) {
             if (err) throw err;
             res.writeHead(404, {'Content-Type': 'text/html'});
             res.end(content);
