@@ -1,6 +1,6 @@
 # Project-Basic-Informational-Site
 
-This project was made following the instructions and specifications for The Odin Project React Course [Memory Card  project](https://www.theodinproject.com/lessons/node-path-react-new-memory-card).
+This project was made following the instructions and specifications for The Odin Project React Course [Basic Informational Site project](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).
 
 ## Description
 
