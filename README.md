@@ -8,7 +8,7 @@ The goal of this project is to create a basic informational website using Node.j
 
 ### Features
 
-- A Node.js server delivering a web application with index, dbout, contact me, and 404 pages
+- A Node.js server delivering a web application with index, about, contact me, and 404 pages
 - localhost:8080 takes users to index.html
 - localhost:8080/about takes users to about.html
 - localhost:8080/contact-me takes users to contact-me.html
